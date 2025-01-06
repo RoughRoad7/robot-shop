@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.14.0a3-slim-bookworm
 
 EXPOSE 8080
 USER root
